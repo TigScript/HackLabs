@@ -1,0 +1,14 @@
+Ejercicios de ingeniería social:
+
+Seleccionando varias organizaciones muy diferentes que conozca, prepare una ficha resumen para cada
+una, indicando los diversos elementos que permitan tipificarlas, si es posible, en base a los elementos
+siguientes:
+ˇ Estatuto y elementos legales, razón social;
+ˇ Organización, organigrama conocido;
+ˇ Elementos geográficos;
+- Tamaño, localización;
+ˇ Subordinación, socios, canales, clientes, proveedores;
+ˇ Tipo de organización, nivel de madurez organizativa;
+ˇ Valores y creencias dominantes, nichos potenciales;
+ˇ Puntos de entrada-salida del sistema de información;
+ˇ Otros puntos que usted considere útiles.

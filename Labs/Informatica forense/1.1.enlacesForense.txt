@@ -1,0 +1,28 @@
+﻿https://www.unir.net/ingenieria/revista/informatica-forense/
+
+https://mirror.parrotsec.org/mirrors/parrot/iso/caine/caine11.0.iso
+https://facilinfo.es/instalar-caine-en-virtualbox/
+
+https://glider.es/el-clonado-ya-no-se-lleva-parte-i/
+
+https://wiki.archlinux.org/index.php/Securely_wipe_disk_(Espa%C3%B1ol)
+
+Montar imágenes EXX
+Linux:
+https://www.andreafortuna.org/2018/04/11/how-to-mount-an-ewf-image-file-e01-on-linux/
+
+#mkdir rawimage
+ewfmount /media/EXImagenCompleta.E01 ./rawimage/
+cd rawimage/
+sha1sum ewf1
+modprobe -r loop
+modprobe loop max_part=8
+mmls rawimage/ewf1 
+mkdir montaje 
+mount -t ext3 -o loop,ro,offset=1048576 ./rawimage/ewf1 montaje
+
+
+Windows:
+https://www.osforensics.com/tools/mount-disk-images.html
+
+malware traffic analisys.net

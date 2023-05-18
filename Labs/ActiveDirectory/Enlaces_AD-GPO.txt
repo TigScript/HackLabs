@@ -1,0 +1,14 @@
+https://blog.ragasys.es/controlador-de-dominio-sobre-ms-windows-server-2016-dns-y-dhcp
+https://blog.ragasys.es/organizacion-de-active-directory-sobre-ms-windows-server-2016
+https://blog.ragasys.es/organizacion-sitios-y-servicios-de-active-directory-sobre-ms-windows-server-2016
+
+https://blog.ragasys.es/administracion-de-directivas-de-grupo-gpo-sobre-ms-windows-server-2016
+https://blog.ragasys.es/filtrado-de-seguridad-en-gpos-de-active-directory
+https://blog.ragasys.es/gpo-para-mapear-unidades-de-red-en-active-directory
+https://blog.ragasys.es/auditoria-de-los-recursos-compartidos-de-un-servidor-de-archivos
+https://blog.ragasys.es/gpo-para-habilitar-disclaimer-en-active-directory
+https://blog.ragasys.es/desplegar-bginfo-usando-gpo
+https://blog.ragasys.es/restringir-inicio-de-sesion-de-usuarios-de-active-directory-a-equipos-especificos
+https://blog.ragasys.es/saber-desde-que-equipo-se-bloquea-una-cuenta-de-usuario-de-active-directory
+
+https://techexpert.tips/es/windows-es/gpo-aplicar-a-un-equipo-especifico/
