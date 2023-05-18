@@ -1,0 +1,23 @@
+sudo runuser -u _gvm -- greenbone-nvt-sync
+sudo runuser -u _gvm -- gvmd --get-scanners
+(note your scanner id)
+sudo runuser -u _gvm -- gvmd --get-users --verbose
+(note your user id)
+sudo runuser -u _gvm -- gvmd --modify-scanner [scanner id] --value [user id]
+
+===============
+sudo gvm-stop
+
+sudo -u postgres bash                     
+ 
+postgres@kaliProfe:/home/jpha$ psql
+psql (14.2 (Debian 14.2-1))
+Type "help" for help.
+
+postgres=# \l
+
+postgres=# drop database gvmd;
+
+exit
+
+exit

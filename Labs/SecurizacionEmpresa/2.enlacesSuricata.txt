@@ -1,0 +1,2 @@
+https://www.bujarra.com/instalando-suricata/
+https://www.bujarra.com/visualizando-los-registros-de-suricata-en-grafana-o-kibana/

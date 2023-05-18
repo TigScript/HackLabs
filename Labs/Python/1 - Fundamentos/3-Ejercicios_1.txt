@@ -1,0 +1,6 @@
+http://patriciaemiguel.com/ejercicios/python/2019/02/24/ejercicios-principiantes-python.html
+
+https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-basicos-en-python/
+
+  # Ayuda Python
+https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion1/index.html

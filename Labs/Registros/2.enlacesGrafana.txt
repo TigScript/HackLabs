@@ -1,0 +1,16 @@
+https://nwmichl.net/2020/03/15/telegraf-influxdb-grafana-as-syslog-receiver/
+
+https://www.bujarra.com/auditoria-de-logon-de-los-usuarios-del-directorio-activo-con-elasticsearch-y-grafana/
+
+https://www.bujarra.com/recopilando-metricas-de-windows-en-elasticsearch-con-metricbeat-visualizando-grafana/
+
+https://www.bujarra.com/redireccionando-eventos-del-visor-de-sucesos-de-equipos-windows-a-elasticsearch-con-winlogbeat-visualizando-grafana/
+
+https://www.bujarra.com/instalando-kibana/
+
+https://www.bujarra.com/instalando-logstash/
+
+https://www.bujarra.com/instalando-elasticsearch/
+
+https://www.bujarra.com/monitorizar-elasticsearch-logstash-kibana-grafana-beats/
+

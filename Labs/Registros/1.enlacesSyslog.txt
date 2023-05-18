@@ -1,0 +1,5 @@
+https://www.comocrearunapaginaweb.com.mx/tutorial-de-syslog-como-funciona-ejemplos-mejores-practicas-y-mas/
+https://ccnadesdecero.es/syslog-funcionamiento-y-configuracion/
+https://coralogix.com/blog/syslog-101-everything-you-need-to-know-to-get-started/
+https://www.networkmanagementsoftware.com/what-is-syslog
+https://www.kiwisyslog.com/

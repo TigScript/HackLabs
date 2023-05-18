@@ -1,0 +1,31 @@
+https://www.securityartwork.es/2014/05/28/pfsense-firewall-perimetral-i/
+https://www.securityartwork.es/2014/07/10/pfsense-firewall-perimetral-ii/
+https://www.securityartwork.es/2014/10/06/pfsense-firewall-perimetral-iii/
+https://www.securityartwork.es/2014/12/15/pfsense-firewall-perimetral-iv/
+https://www.securityartwork.es/2015/02/18/pfsense-firewall-perimetral-v/
+https://www.hackingarticles.in/detect-nmap-scan-using-snort/
+https://www.securityartwork.es/2015/06/11/pfsense-firewall-perimetral-vi/
+
+https://techexpert.tips/es/pfsense-es/instalacion-del-servidor-pfsense/
+https://www.redeszone.net/tutoriales/configuracion-routers/configuracion-router-firewall-pfsense/
+
+https://mjesussuarez.blogspot.com/2014/02/firewall-de-pfsense-reglas-de-filtro-13.html
+
+
+https://clouding.io/hc/es/articles/360010474900-C%C3%B3mo-configurar-OpenVPN-Server-con-pfSense
+https://clouding.io/hc/es/articles/360010587019-C%C3%B3mo-configurar-VPN-Site-to-Site-IPsec-con-pfSense
+
+https://www.soporteinfo.net/2020/02/13/vpn-openvpn-pfsense/
+
+https://tech.lobobrothers.com/squidsquidguardlightsquid-y-clam-av-en-pfsense/
+https://tech.lobobrothers.com/squid-squidguard-lightsquid-y-clam-av-en-pfsense-parte-ii/
+https://tech.lobobrothers.com/rematando-con-pfblockerng-en-pfsense/
+
+======================================================================
+Telegram alerts
+
+    Create a Telegram public channel
+    Create a Telegram BOT (for example x_bot) via BotFather
+    Set the x_bot as an administrator in your channel
+
+the chat_id is @x_bot, it's a part of https://t.me/x_bot that does not add your channel name.
