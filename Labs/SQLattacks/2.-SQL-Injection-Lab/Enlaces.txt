@@ -1,0 +1,45 @@
++++++++++++++++++   Creando máquina ++++++++++++++++++++++++++++++++++++++++++++++++
+https://cirelramos.blogspot.com/2018/02/instalar-un-servidor-lapp-linux-apache.html
+https://www.postgresql.org/download/linux/debian/
+
+apt update
+apt upgrade
+apt -y install sudo
+apt -y install net-tools
+apt -y install git gnupg
+
+apt -y install apache2
+
+# Create the file repository configuration:
+sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+
+# Import the repository signing key:
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+
+# Update the package lists:
+apt update
+
+# Install the latest version of PostgreSQL.
+# If you want a specific version, use 'postgresql-12' or similar instead of 'postgresql':
+apt -y install postgresql 
+
+# Instalamos php
+apt -y install php php-pgsql 
+
+# Añadiendo root a postgresql
+sudo -u postgres createuser --superuser $USER
+sudo -u postgres createdb $USER
+sudo -u postgres psql
+ALTER USER root WITH PASSWORD 'Aa123456';
+quit
+
+pqsl
+\i prepare-database.sql
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://github.com/LoganAyala/Hacking-de-Aplicaciones-Web-SQL-Injection.-3-Edicion---0xWORD
+https://github.com/Nakerdev/0xword-sql-injection-lab
+https://www.postgresqltutorial.com/

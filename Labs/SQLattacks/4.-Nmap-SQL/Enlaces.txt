@@ -1,0 +1,2 @@
+https://nmap.org/nsedoc/scripts/http-sql-injection.html
+

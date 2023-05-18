@@ -1,0 +1,13 @@
+https://hardsoftsecurity.es/index.php/2018/02/01/como-explotar-inyeccion-sql-con-sqlmap/
+
+http://testphp.vulnweb.com/listproducts.php?cat=*
+
+=========================================================
+
+Fiddler:
+
+https://www.telerik.com/fiddler/fiddler-classic
+
+https://medium.com/@dorianalexiis/instalando-fiddler-4-alternativa-a-charles-proxy-c102c6bb94ed
+
+https://stackoverflow.com/questions/41902367/making-fiddler-work-with-chrome

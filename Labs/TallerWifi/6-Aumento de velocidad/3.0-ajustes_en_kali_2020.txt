@@ -1,0 +1,8 @@
+# nano /etc/apt/sources.list
+	deb http://old.kali.org/kali sana main non-free contrib
+	deb http://old.kali.org/kali moto main non-free contrib
+
+# apt update
+# apt install python3-pip
+# apt install pyrit
+# apt install python-scapy
